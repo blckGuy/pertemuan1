@@ -9,7 +9,7 @@ fun main() {
     a = 7
     a = a++ + --a
     println(a)
-
+//var merupakan  sebuah variabel yang nilainya bisa diubah dan kebalikannya adalah val(konstanta)
     var dynamicVar = 2
     println("Contoh dynamic variabel = $dynamicVar")
 }
