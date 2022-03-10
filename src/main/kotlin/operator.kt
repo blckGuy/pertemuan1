@@ -1,3 +1,4 @@
+//contoh penggunaan operator dalam kotlin
 fun main() {
     var a = 1
     a+=5
