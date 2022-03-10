@@ -1,3 +1,4 @@
+//kode ini bertujuan unutk mengenal literal yang ada, dan contoh literalnya//
 fun main(args: Array<String>) {
     var intliteral = 5
     var doubleliteral =.02
